@@ -1,3 +1,6 @@
+
+![LamHyStore Extension](https://github.com/user-attachments/assets/e2adae83-27ed-4f58-bdbf-8ef696ce0342)
+
 # 🛍️ LamhyStore POS Helper - Chrome Extension
 
 ## 🚀 Description  
