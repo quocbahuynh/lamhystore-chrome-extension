@@ -18,6 +18,13 @@ This makes the process faster, reduces manual work, and improves inventory manag
 
 ---
 
+## 🎚️ Demo
+
+
+https://github.com/user-attachments/assets/96b939dd-3320-4f0f-8de3-d2f0b074a334
+
+
+---
 ## 📥 Installation  
 
 1. **Download the Extension**  
